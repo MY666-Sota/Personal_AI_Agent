@@ -17,6 +17,12 @@
 - 个人智能助理原型验证
 - Memory + RAG 方向的作品集展示
 
+## 🎬 UI 演示视频
+
+- [查看完整演示视频](assets/personal-ai-agent-demo.mp4)
+
+[![UI 演示视频预览](assets/screenshots/home.png)](assets/personal-ai-agent-demo.mp4)
+
 ## 🖼️ 效果展示
 
 ### 首页对话界面
