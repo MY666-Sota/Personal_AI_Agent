@@ -191,6 +191,10 @@ streamlit run app.py
 - 补充自动化测试与评估脚本
 - 增加更完整的前端状态展示与调试能力
 
+## 📮 联系方式
+
+- Email: 15193540213@163.com
+
 ## 📄 License
 
 This project is licensed under the MIT License.
